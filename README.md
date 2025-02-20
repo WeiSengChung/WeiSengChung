@@ -2,8 +2,7 @@
 - 👀 I’m interested in Software Development.
 - 🌱 I’m currently learning Software Engineering.
 - 💞️ I’m looking to collaborate on any platform.
-- 📫 How to reach me: linkedin.com/in/chungweiseng.
-- ⚡ Fun fact: I enjoy sleeping, who doesn't.
+- 📫 How to reach me: <a href='linkedin.com/in/chungweiseng.'>LinkedIn Profile</a>.
 
 <!---
 WeiSengChung/WeiSengChung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
